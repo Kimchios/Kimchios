@@ -1,7 +1,15 @@
+Hi! Kimchios here, repo's mostly private, unless it's open source or source available!
+
+**What i work on:**
 [![MacBook](https://img.shields.io/badge/MacBook_Pro-M3_Pro_12C%2F18G-18181B?style=flat-square&logo=apple&logoColor=white)](https://github.com/kimchios)
 [![RAM](https://img.shields.io/badge/36GB-LPDDR5-18181B?style=flat-square&logo=apple&logoColor=white)](https://github.com/kimchios)
+
+**Where do i enjoy spending my time:**
 [![VR](https://img.shields.io/badge/Quest_3S-VR-0467DF?style=flat-square&logo=meta&logoColor=white)](https://github.com/kimchios)
+
+**Where i communicate:**
 [![Telegram](https://img.shields.io/badge/Telegram-chat-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kimchios)
+[![Discord](https://img.shields.io/badge/Discord-kimchios-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/kimchios)
 
 **What i use daily:**
 <p>
